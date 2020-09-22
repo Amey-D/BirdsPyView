@@ -1,3 +1,3 @@
-opencv-python
+opencv-python==4.4.0.42
 streamlit-drawable-canvas
 pandas
